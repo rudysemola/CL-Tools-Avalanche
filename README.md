@@ -15,6 +15,13 @@ Learning outcome:
 
 10/11/2021
 - Use of Git and Github + command line + Pycharm
+ 
+-------------------------------------------------------
+11/11/2021
+- Ex of experimental setting using Avalanche (Pytorch)
+- application of Avalanche and Pytorch (in Getting Started material)
+- Use of Git and Github + command line + Pycharm
 
-TODO: Getting Started and  Example + Pytorch 
-- -------------------------------------------------------
+TODO: Examples and Ex1 (to recap CL and tools)
+
+-------------------------------------------------------
