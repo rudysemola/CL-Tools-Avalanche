@@ -22,6 +22,11 @@ Learning outcome:
 - application of Avalanche and Pytorch (in Getting Started material)
 - Use of Git and Github + command line + Pycharm
 
-TODO: Examples and Ex1 (to recap CL and tools)
+-------------------------------------------------------
+12/11/2021
+- Examples: Benchmarks, Models, Training, Evaluation, Logger
+
+NOT MANDATORY: Tutorial Avalanche and Pytorch
 
 -------------------------------------------------------
+
